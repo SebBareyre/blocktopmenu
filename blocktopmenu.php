@@ -24,7 +24,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 */
 
-require (dirname(__FILE__).'/menutoplinks.class.php');
+require_once (dirname(__FILE__).'/menutoplinks.class.php');
 
 class Blocktopmenu extends Module
 {
